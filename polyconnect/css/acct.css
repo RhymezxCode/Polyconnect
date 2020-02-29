@@ -1,0 +1,36 @@
+.panel {
+    background: rgba(191, 191, 191, 0.5) !important;
+    padding: 30px;
+}
+
+.margin_left {
+    margin: 10px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.left {
+    margin: 200px;
+}
+
+.right {
+    padding: 20px;
+}
+
+.field {
+    background: rgba(191, 191, 191, 0.5) !important;
+}
+
+.text {
+    color: firebrick;
+}
+
+.text:hover {
+    color: red;
+}
+
